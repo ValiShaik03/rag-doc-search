@@ -1,0 +1,3 @@
+Machine Learning (ML) is a subset of AI that allows systems to learn and improve automatically from experience without being explicitly programmed. 
+It uses algorithms to analyze data, identify patterns, and make predictions. 
+Common types include supervised learning, unsupervised learning, and reinforcement learning.

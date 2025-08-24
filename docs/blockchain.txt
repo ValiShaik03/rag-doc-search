@@ -1,0 +1,3 @@
+Blockchain is a distributed ledger technology that enables secure, transparent, and tamper-proof transactions. 
+It is the underlying technology behind cryptocurrencies like Bitcoin and Ethereum. 
+Beyond finance, blockchain has applications in supply chain, healthcare, and digital identity verification.
